@@ -6,9 +6,32 @@ title: "Welcome! This is Yuhan's Personal Website."
 
 Welcome to my personal website! I'm thrilled to have you here. My name is Yuhan Wu, a current high school senior  enrolled in Newton North High School (Fall 2023). This website serves as a platform for me to share my journey both as a student and as a person, showcase some of my achievements, and express my diverse interests. Throughout my high school years, I have actively engaged in various extracurricular activities, including academic competitions, sports, music, and community service projects. I'm excited to share my experiences, insights, and growth with you through this website. 
 
-# Academic Passions
+# Academic Persuits
 
 Since a young age, I have been intrigued by the practical applications of mathematics and science. It wasn't until I participated in my first math modeling competition that I uncovered the true potential of these subjects. It was during this experience that I discovered the captivating world of data analytics and mathematical modeling, specifically in the realm of statistics. Witnessing the power of data-driven insights and their real-world applications left me in awe. This revelation ignited a passion within me to continue exploring the realms of math and data, driven by the joy of creating and witnessing the tangible impact it can have. 
+
+Through this website, I will share some of my projects and papers throughout my high school journey. 
+
+# Personal Extracurricular Interests
+
+Besides my academic pursuits, I find immense joy and fulfillment in engaging in various extracurricular activities that enrich my life. Among these passions, four hold a special place in my heart: badminton, piano, go-chess, and astrophotography. 
+
+In terms of sport, my love for badminton have carried over from China to the US. The rhythmic sound of shuttlecocks and the exhilaration of a well-executed smash bring me immense joy and pleasure. Whether I am playing in friendly matches or competing in tournaments, badminton allows me to unleash my competitive spirit and stay physically active.
+
+When I'm not on the badminton court, you'll often find me seated at the piano, exploring the magical world of music. The piano has been a loyal companion since first grade in elementary school, enabling me to express my emotions and find solace in its melodic embrace. From classical compositions to contemporary pieces, I enjoy the versatility of this instrument and the endless possibilities it offers for artistic expression.
+
+Another hobby that has captured my attention is go-chess, also known as Weiqi. This ancient strategic board game has captivated players for centuries with its elegant simplicity and complexity. As I place my stones on the grid, I immerse myself in a world of calculated moves, deep thinking, and strategic decision-making. Go-chess has taught me valuable lessons about patience, foresight, and adaptability.
+
+In addition to my love for sports and music, I have a fascination with the cosmos. Astrophotography has become an integral part of my life since young, as I capture breathtaking images of celestial objects and explore the mysteries of the universe through the lens of my camera. Gazing at the night sky, capturing distant galaxies, and witnessing the awe-inspiring beauty of celestial bodies fills me with a sense of wonder and fuels my curiosity for the cosmos.
+
+
+
+
+
+
+
+
+
 
 
 
