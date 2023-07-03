@@ -1,3 +1,19 @@
 ---
 title: "Contact Me!"
 ---
+# Contact Me
+
+If you have any questions, comments, or would like to collaborate, please don't hesitate to get in touch with me. You can reach me via gmail, phone, or Link. I would love to learn and grab coffee with you!
+
+## Email
+
+- You can contact me via email at [wuyuhanm@gmail.com](mailto:wuyuhanm@gmail.com).
+
+## Phone Number
+
+- Feel free to give me a call at [+1(702)290-6132](tel:702-290-6132).
+
+## LinkedIn
+
+- Connect with me on LinkedIn: [Yuhan Wu](https://www.linkedin.com/in/yuhan-wu-703984204/).
+

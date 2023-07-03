@@ -1,9 +1,30 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Me!",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "If you have any questions, comments, or would like to collaborate, please don’t hesitate to get in touch with me. You can reach me via gmail, phone, or Link. I would love to learn and grab coffee with you!\n\n\n\nYou can contact me via email at wuyuhanm@gmail.com.\n\n\n\n\n\nFeel free to give me a call at +1(702)290-6132.\n\n\n\n\n\nConnect with me on LinkedIn: Yuhan Wu."
+  },
+  {
+    "objectID": "contact.html#email",
+    "href": "contact.html#email",
+    "title": "Contact Me!",
+    "section": "",
+    "text": "You can contact me via email at wuyuhanm@gmail.com."
+  },
+  {
+    "objectID": "contact.html#phone-number",
+    "href": "contact.html#phone-number",
+    "title": "Contact Me!",
+    "section": "",
+    "text": "Feel free to give me a call at +1(702)290-6132."
+  },
+  {
+    "objectID": "contact.html#linkedin",
+    "href": "contact.html#linkedin",
+    "title": "Contact Me!",
+    "section": "",
+    "text": "Connect with me on LinkedIn: Yuhan Wu."
   }
 ]
