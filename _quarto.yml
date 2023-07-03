@@ -2,12 +2,17 @@ project:
   type: website
 
 website:
-  title: "yuhan-website"
+  title: "Yuhan's Personal Website"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+    right:
+      - href: contact.qmd
+        text: Contact
+
 
 format:
   html:
@@ -15,5 +20,5 @@ format:
     css: styles.css
     toc: true
 
-editor: visual
+editor: source
 
