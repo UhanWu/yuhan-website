@@ -6,14 +6,11 @@ title: "Welcome! This is Yuhan's Personal Website."
 
 Welcome to my personal website! I'm thrilled to have you here. My name is Yuhan Wu, a current high school senior  enrolled in Newton North High School (Fall 2023). This website serves as a platform for me to share my journey both as a student and as a person, showcase some of my achievements, and express my diverse interests. Throughout my high school years, I have actively engaged in various extracurricular activities, including academic competitions, sports, music, and community service projects. I'm excited to share my experiences, insights, and growth with you through this website. 
 
-# Academic Persuits
+# Academic and Career Pursuits
 
 Since a young age, I have been intrigued by the practical applications of mathematics and science. It wasn't until I participated in my first math modeling competition that I uncovered the true potential of these subjects. It was during this experience that I discovered the captivating world of data analytics and mathematical modeling, specifically in the realm of statistics. Witnessing the power of data-driven insights and their real-world applications left me in awe. This revelation ignited a passion within me to continue exploring the realms of math and data, driven by the joy of creating and witnessing the tangible impact it can have. 
 
-Through this website, I will share some of my projects and papers throughout my high school journey. 
-
-# Personal Hobbits
-
+In complementary to my dedication to data science and statistics, I am deeply captivated by the field of social science, recognizing the profound impact my work can have within it. This fascination originated from my study of Keynesian economics and its crucial role in revitalizing both international and domestic economies after World War II. As I embarked on this journey, I developed a strong aspiration and motivation, driven by the realization that the integration of data science and statistics is indispensable for effectively addressing pressing global issues like poverty, climate change, and inequality in a systematic and evidence-based manner.
 
 # Personal Hobbits
 
