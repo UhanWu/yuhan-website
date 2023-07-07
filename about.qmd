@@ -2,7 +2,7 @@
 title: "About Yuhan"
 ---
 
-# Academic and Career Pursuits
+# Academic Pursuits
 
 
 Since a young age, I have been intrigued by the practical applications of mathematics and science. It wasn't until I participated in my first math modeling competition that I uncovered the true potential of these subjects. It was during this experience that I discovered the captivating world of data analytics and mathematical modeling, specifically in the realm of statistics. Witnessing the power of data-driven insights and their real-world applications left me in awe. This revelation ignited a passion within me to continue exploring the realms of math and data, driven by the joy of creating and witnessing the tangible impact it can have. 
