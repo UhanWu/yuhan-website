@@ -3,7 +3,7 @@ title: "Contact Me!"
 ---
 # Contact Me
 
-If you have any questions, comments, or would like to collaborate, please don't hesitate to get in touch with me. You can reach me via gmail, phone, or Link. I would love to learn and grab coffee with you!
+If you have any questions, comments, or would like to collaborate, please don't hesitate to get in touch with me. You can reach me via gmail, phone, Linkedin, and Github. I would love to learn and grab coffee with you!
 
 ## Email
 
@@ -13,7 +13,11 @@ If you have any questions, comments, or would like to collaborate, please don't 
 
 - Feel free to give me a call at [+1(702)290-6132](tel:702-290-6132).
 
-## LinkedIn
+## Linkedin
 
 - Connect with me on LinkedIn: [Yuhan Wu](https://www.linkedin.com/in/yuhan-wu-703984204/).
+
+## Github
+
+- Follow me on Github: [Yuhan Wu](https://github.com/UhanWu)
 
